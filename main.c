@@ -32,5 +32,4 @@ float avrage(int n)
         }
     }
     res = res / div;
-    return res;
-}
+    return res;  
