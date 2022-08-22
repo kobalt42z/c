@@ -35,7 +35,8 @@ void tasko(int n)
         arr_a[i] = n % 10;
         n /= 10;
     }
-
+    // * task 3
+    //? pass all digits tocheck if numInArr is true
     while (numInArr != 0)
     {
 
